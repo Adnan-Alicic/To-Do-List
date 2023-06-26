@@ -52,7 +52,7 @@ h1 {
 
 .todo-btn {
   background: #93E1D8;
-  color: #fff;
+  color: #383e3e;
   border: none;
   padding: 0.55rem;
   cursor: pointer;
@@ -63,8 +63,8 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #8758ff;
-  color: #fff;
+  background: #93E1D8;
+  color: #383e3e;
   padding: 0.75rem 1rem;
   border-radius: 5px;
   margin-bottom: 1rem;
@@ -76,7 +76,7 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #000000;
   text-decoration: line-through;
 }
  
